@@ -24,5 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gouri-1005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Gouri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gouri-1005&show_icons=true&theme=radical)
+## 📊 Gouri Unnithan's GitHub Stats
+
+![Gouri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gouri-1005&show_icons=true&hide=stars,issues,contribs&theme=radical&custom_title=Gouri%20Unnithan%27s%20GitHub%20Stats&count_private=true)
+
 
